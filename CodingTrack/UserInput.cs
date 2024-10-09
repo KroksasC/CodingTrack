@@ -1,6 +1,6 @@
 ﻿using Spectre.Console;
 
-namespace CodingTracker
+namespace CodingTrack
 {
     internal class UserInput
     {
@@ -38,7 +38,7 @@ namespace CodingTracker
                 startTime = GetTimeInput();
 
             }
-            TimeSpan Duration = endTime - startTime;
+            duration = endTime - startTime;
         }
         
     }

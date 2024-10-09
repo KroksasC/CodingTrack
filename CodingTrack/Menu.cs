@@ -1,6 +1,6 @@
 ﻿using Spectre.Console;
 
-namespace CodingTracker
+namespace CodingTrack
 {
     internal class Menu
     {

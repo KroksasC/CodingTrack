@@ -1,4 +1,4 @@
-﻿namespace CodingTracker
+﻿namespace CodingTrack
 {
     public class CodingSession
     {

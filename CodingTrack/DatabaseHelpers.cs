@@ -3,7 +3,7 @@ using System.Configuration;
 using Spectre.Console;
 using Dapper;
 
-namespace CodingTracker
+namespace CodingTrack
 {
     internal class DatabaseHelpers
     {
